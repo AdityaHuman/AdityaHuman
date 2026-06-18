@@ -16,7 +16,6 @@
 
 ### **Tools & Platforms**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
@@ -24,8 +23,7 @@
 ## 🚀 **Featured Projects**
  | Project | Description | Stars | Forks |
  |---------|-------------|-------|-------|
- | [Gateway-Lookup](link) | Detect payment gateways, Cloudflare, and CAPTCHA on any domain. | ![GitHub stars](https://img.shields.io/github/stars/Aditya-Yadav/Gateway-Lookup?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/Aditya-Yadav/Gateway-Lookup?style=flat) |
- | [LittleBrother-OSINT](link) | Python-based OSINT tool for social media and IP lookups. | ![GitHub stars](https://img.shields.io/github/stars/Aditya-Yadav/LittleBrother-OSINT?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/Aditya-Yadav/LittleBrother-OSINT?style=flat) |
+ | [Gateway-Lookup](link-to-repo) | Detect payment gateways, Cloudflare, and CAPTCHA on any domain. | ![GitHub stars](https://img.shields.io/github/stars/Aditya-Yadav/Gateway-Lookup?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/Aditya-Yadav/Gateway-Lookup?style=flat) |
 
 ---
 

@@ -28,8 +28,8 @@
 ---
 
 ## 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Yadav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Yadav&layout=compact&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Yadav&show_icons=true&theme=radical&hide=stars,issues,contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Yadav&layout=compact&theme=radical&exclude_repo=Aditya-Yadav)
 
 ---
 ## 🤝 **Let’s Connect**

@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Currently%20Building-000000?style=flat&logo=github&logoColor=white" alt="Building" />
 
-**[Gateway-Lookup Tool](https://github.com/Aditya-Yadav/Gateway-Lookup)** – Detect payment gateways, Cloudflare, and CAPTCHA on any domain.
+**[Tab Suspender](https://github.com/AdityaHuman)**
 
 ---
 

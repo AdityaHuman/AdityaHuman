@@ -1,37 +1,43 @@
-# Hi there 👋, I'm Aditya Yadav
+# Hi, I'm Aditya Yadav
 
-### Python Developer • Open-Source Contributor • Student
+### `Python Learner` • `Open-Source Contributor` • `Student`
 
-<img src="https://img.shields.io/badge/Interests-000000?style=flat&logo=bookstack&logoColor=white" alt="Interests" />
+>Open-Source Intelligence (OSINT), Software Development, Automation, Browser Extensions, and Open-Source Projects.
 
-**Open-Source Intelligence (OSINT), software development, automation, browser extensions, and open-source projects.**
-
-<img src="https://img.shields.io/badge/Currently%20Building-000000?style=flat&logo=github&logoColor=white" alt="Building" />
-
-**[Tab Suspender](https://github.com/AdityaHuman)**
+**Currently Building:**
+[Tab Suspender](https://github.com/AdityaHuman/tab-suspender)
 
 ---
 
-## **My Toolkit**
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## Stack
 
-### **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Android%20Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
-## **Featured Projects**
- | Project | Description | Stars | Forks |
- |---------|-------------|-------|-------|
- | [Gateway-Lookup](link-to-repo) | Detect payment gateways, Cloudflare, and CAPTCHA on any domain. | ![GitHub stars](https://img.shields.io/github/stars/Aditya-Yadav/Gateway-Lookup?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/Aditya-Yadav/Gateway-Lookup?style=flat) |
+## GitHub
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaHuman&show_icons=true&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHuman&layout=compact&hide_border=true&bg_color=00000000" />
+</p>
 
 ---
-## 🤝 **Let’s Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-yadav-human/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)]()
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)]()
+
+## 🤝 Let’s Connect
+
+<p align="center">
+
+<a href="mailto:aditya.homosapiens@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/LINKEDIN_">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/Aditya_Human">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
